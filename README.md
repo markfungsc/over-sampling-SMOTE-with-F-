@@ -1,1 +1,1 @@
-# over-sampling-SMOTE-with-F#
+# Over-sampling SMOTE with F#
